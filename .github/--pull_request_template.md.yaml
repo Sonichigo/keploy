@@ -1,7 +1,6 @@
-name: GSoC Issue report
+name: Pull Request
 description: Create a Issue report to help us improve Keploy
-title: "[gsoc]: "
-labels: [gsoc]
+title: "[feat]: "
 body:
 - type: markdown
   attributes:
